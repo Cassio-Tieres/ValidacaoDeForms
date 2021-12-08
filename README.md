@@ -1,4 +1,5 @@
 # ValidacaoDeForms
-Este projeto está sendo desenvolvido para que eu possa estudar as técnicas de validação de formulário(bem como o seu título já o diz) utilizando JavaScript. 
-Encontrei o layout utilizado procurando por uma inspiração e acabei gostando bastante do formulário que achei do facebook, por sua simplicidade, já que o foco não é totalmente na parte visual.<br/>
-Também não me preocupei com sua responsividade, já que, como eu disse, não será a preocupação nesse projeto.
+Projeto com o intuito de compreender como funcionam as validações de formulário utilizando a linguagem JavaScript.
+<br/>
+Como a função desse projeto foi apenas para estudo, eu não me apeguei a desenvolver um layout responsivo, mas a escolha deste foi de grande agrado para mim. As validações foram feitas utilizando script externo ao HTML mantendo as boas práticas de programação, separando cada qual em seu devido lugar. <br/>
+Com este projeto, aprendi conceitos novos e fundamentais que envolvem o DOM, além de entender mais as particularidades do javaScript, o que com toda certeza faz uma grande diferença.
