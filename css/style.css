@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500&display=swap');
+/*****GERAL*/
+* {
+    margin: 0;
+    background-color: rgb(77, 77, 218);
+}
+
+nav {
+    margin: 200px;
+}
+
+/****FORMATANDO CONTENT*/
+#content {
+    text-align: center;
+}
+#content h2 {
+    color: white;
+    font-family: 'Oswald', sans-serif;  
+}
+#content p{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*******FORMULÁRIOS*/
+.formatacao-forms {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    /*align-items: center;*/
+}
+
+.input-field {
+    padding: 15px;
+    margin: 5px;
+    width: 400px;
+
+    border: 1px solid blue;
+    background-color: white;
+}
+
+.button-field {
+    padding: 10px;
+    margin: 5px;
+    width: 420px;
+
+
+    cursor: pointer;
+    border: none;
+    background-color: rgb(94, 94, 248);
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.checkbox-field {
+    color: rgb(131, 131, 247);
+}
+
+.formatacao-forms a{
+    color: rgb(131, 131, 247);
+    text-decoration: none;
+    margin-left: 20px;
+} 
+
+.formatacao-forms a:hover {
+    color: blue;
+}
+
+/*****FOOTER*/
+footer {
+    margin-bottom: 20px;
+}
+footer p {
+    color: rgb(131, 131, 247);
+}
+
+footer span{
+    color: white;
+}
